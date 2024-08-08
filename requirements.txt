@@ -1,0 +1,4 @@
+dataframe_image
+matplotlib
+pandas
+selenium
